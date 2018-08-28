@@ -1,5 +1,5 @@
 # ETH_RejectTool
-eth交易撤销
+eth交易撤销器:
 
 老是有萌新说eth交易卡了。。。有人推荐用myetherwallet导入私钥再用卡死交易的nonce发起一笔0eth的self交易；
 
